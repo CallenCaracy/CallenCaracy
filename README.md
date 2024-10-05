@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on data warehousing<br>🌱 I’m currently learning python and java<br>⚡ I love butterfly loops
+About Me:
+🔭 I’m a student in the University of San Carlos, currently working on data warehousing<br>🌱 I’m currently learning python and java<br>⚡ I love butterfly loop
 
 
 # 💻 Tech Stack:
