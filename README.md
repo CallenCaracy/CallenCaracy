@@ -1,5 +1,5 @@
 # About Me:
--> I’m a student in the University of San Carlos;<br>-> I'm currently working on data warehousing;<br>-> I’m currently learning python and java;<br>-> I love butterfly loop;
+-> I’m a student in the University of San Carlos;<br>-> I'm currently working on data warehousing;<br>-> I’m currently learning python and java;
 
 
 # 💻 Tech Stack:
