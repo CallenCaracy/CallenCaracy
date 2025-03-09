@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Caracy</h1>
+<h1 align="center">Hi 👋, I'm Clarence</h1>
 <h3 align="center">I'm a Student in the University of San Carlos</h3>
 
-- 🔭 I’m currently working on **Python Based Projects**
+- I’m currently working on **Python Based Projects**
 
-- 👯 I’m looking to collaborate on [ByteBites, a Microservice Architecture Website](https://github.com/CallenCaracy/ByteBites)
+- I’m working with my team on [ByteBites, a Microservice Architecture Website](https://github.com/CallenCaracy/ByteBites)
 
 - # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CallenCaracy&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
